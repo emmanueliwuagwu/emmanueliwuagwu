@@ -1,0 +1,65 @@
+@import url('https://fonts.googleapis.com/css2?family=Montserrat:wght@500&display=swap');
+
+@import url('https://fonts.googleapis.com/css2?family=Lobster&family=Montserrat:wght@500&display=swap');
+
+h1{
+  font-family: Lobster, cursive;
+  color: brown;
+}
+
+body{
+  background-color: #cccccc;
+  font-family: Montserrat, sans-serif;
+  line-height: 1.4;
+  width: 500px;
+    margin: 0 auto;
+  height: 100%;
+}
+
+body::before {
+  content: '';
+  position: fixed;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  z-index: -1;
+  background-image: linear-gradient(
+      115deg,
+      rgba(90, 58, 58, 0.8),
+      rgba(136, 136, 206, 0.7)
+    ),
+    url(https://s3.us-east-2.amazonaws.com/cfc2019/wp-content/uploads/2016/09/28125846/Ottawa-Gee-Gees-400x300.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  
+}
+
+form{
+background: rgb(70,10,20, 0.7);
+  padding: 2.5rem 2.5rem;
+  border-radius: 20px;
+  width: 500px;
+  margin: auto;
+}
+
+button{
+  width: 100%;
+  background-color: rgb(10,50,90) ;
+  cursor: pointer;
+  color: white;
+  border-radius: 30px;
+}
+
+button:active {
+  box-shadow: 0 5px #666;
+  transform: translateY(4px);
+}
+.input-field{
+  display: block;
+  width: 90%;
+  padding: 0.25rem 0.75rem;
+  border: 1px solid;
+  border-radius: 0.25rem;
+}
