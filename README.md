@@ -1,7 +1,6 @@
 - 👋 Hi, I’m @emmanueliwuagwu
-- 👀 I’m interested in web design,UI/UX design specifically
-- 🌱 I’m currently learning react.js
-- 💞️ I’m looking to collaborate on web design projects
+- 👀 I love working on different personal projects using mostly Java and would share them here!
+- 💞️ I’m available for colloborations and any employment opportunities
 - 📫 How to reach me via email is at emmanueliwuagwu1@gmail.com
 
 <!---
