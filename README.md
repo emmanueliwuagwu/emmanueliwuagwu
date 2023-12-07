@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @emmanueliwuagwu
-- 👀 I love working on different personal projects using mostly Java and would share them here!
+- 👀 I love working on different personal projects using mostly Java and would share them on here!
 - 💞️ I’m available for colloborations and any employment opportunities
 - 📫 How to reach me via email is at emmanueliwuagwu1@gmail.com
 
